@@ -1,0 +1,9 @@
+server:
+ hostname: YOUR_HOST
+ port: 22
+ username: YOUR_USER 
+ key: /path/to/id_rsa
+
+files:
+ remote_folder: /path/to/remote/folder 
+ local_tar: output.tar.xz
